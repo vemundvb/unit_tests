@@ -5,7 +5,7 @@ public class Year {
 
 
 
-    //comment
+    //commentas
     public boolean isLeapYear(int year) {
         boolean result = true;
 
